@@ -1,0 +1,192 @@
+[Mon Dec  5 10:57:36.320 2022] [1] starting daemon version '5.0.2 348514c86@220530 dev' ...
+[Mon Dec  5 10:57:36.320 2022] [1] listening on all interfaces for sphinx and http(s), port=9312
+[Mon Dec  5 10:57:36.320 2022] [1] listening on all interfaces for mysql, port=9306
+[Mon Dec  5 10:57:36.320 2022] [1] listening on all interfaces for sphinx and http(s), port=9308
+[Mon Dec  5 10:57:36.321 2022] [21] Index header format is not json, will try it as binary...
+[Mon Dec  5 10:57:36.321 2022] [21] WARNING: Unable to load header..
+[Mon Dec  5 10:57:36.321 2022] [21] WARNING: index 'countriesIndex': prealloc: failed to open /var/lib/manticore/data/countriesIndex.sph: No such file or directory - NOT SERVING
+[Mon Dec  5 10:57:36.337 2022] [25] prereading 0 indexes
+[Mon Dec  5 10:57:36.337 2022] [25] prereaded 0 indexes in 0.000 sec
+[Mon Dec  5 10:57:36.337 2022] [1] accepting connections
+[Mon Dec  5 11:01:07.441 2022] [1] caught SIGTERM, shutting down
+[Mon Dec  5 11:01:07.499 2022] [1] shutdown daemon version '5.0.2 348514c86@220530 dev' ...
+[Mon Dec  5 11:01:07.499 2022] [1] shutdown complete
+[Mon Dec  5 11:01:15.473 2022] [1] starting daemon version '5.0.2 348514c86@220530 dev' ...
+[Mon Dec  5 11:01:15.473 2022] [1] listening on all interfaces for sphinx and http(s), port=9312
+[Mon Dec  5 11:01:15.473 2022] [1] listening on all interfaces for mysql, port=9306
+[Mon Dec  5 11:01:15.473 2022] [1] listening on all interfaces for sphinx and http(s), port=9308
+[Mon Dec  5 11:01:15.473 2022] [19] Index header format is not json, will try it as binary...
+[Mon Dec  5 11:01:15.473 2022] [19] WARNING: Unable to load header..
+[Mon Dec  5 11:01:15.473 2022] [19] WARNING: index 'countriesIndex': prealloc: failed to open /var/lib/manticore/data/countriesIndex.sph: No such file or directory - NOT SERVING
+[Mon Dec  5 11:01:15.488 2022] [22] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:01:15.488 2022] [22] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:01:15.488 2022] [22] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:01:15.488 2022] [22] binlog: finished replaying total 1 in 0.000 sec
+[Mon Dec  5 11:01:15.489 2022] [24] prereading 0 indexes
+[Mon Dec  5 11:01:15.489 2022] [24] prereaded 0 indexes in 0.000 sec
+[Mon Dec  5 11:01:15.489 2022] [1] accepting connections
+[Mon Dec  5 11:09:05.935 2022] [1] caught SIGTERM, shutting down
+[Mon Dec  5 11:09:06.001 2022] [1] shutdown daemon version '5.0.2 348514c86@220530 dev' ...
+[Mon Dec  5 11:09:06.001 2022] [1] shutdown complete
+[Mon Dec  5 11:09:12.714 2022] [1] starting daemon version '5.0.2 348514c86@220530 dev' ...
+[Mon Dec  5 11:09:12.714 2022] [1] listening on all interfaces for sphinx and http(s), port=9312
+[Mon Dec  5 11:09:12.714 2022] [1] listening on all interfaces for mysql, port=9306
+[Mon Dec  5 11:09:12.714 2022] [1] listening on all interfaces for sphinx and http(s), port=9308
+[Mon Dec  5 11:09:12.715 2022] [19] Index header format is not json, will try it as binary...
+[Mon Dec  5 11:09:12.715 2022] [19] WARNING: Unable to load header..
+[Mon Dec  5 11:09:12.715 2022] [19] WARNING: index 'countriesIndex': prealloc: failed to open /var/lib/manticore/data/countriesIndex.sph: No such file or directory - NOT SERVING
+[Mon Dec  5 11:09:12.729 2022] [23] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:09:12.729 2022] [23] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:09:12.729 2022] [23] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:09:12.729 2022] [23] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:09:12.729 2022] [23] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:09:12.729 2022] [23] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:09:12.729 2022] [23] binlog: finished replaying total 2 in 0.000 sec
+[Mon Dec  5 11:09:12.730 2022] [24] prereading 0 indexes
+[Mon Dec  5 11:09:12.730 2022] [24] prereaded 0 indexes in 0.000 sec
+[Mon Dec  5 11:09:12.730 2022] [1] accepting connections
+[Mon Dec  5 11:09:32.939 2022] [1] caught SIGTERM, shutting down
+[Mon Dec  5 11:09:32.994 2022] [1] shutdown daemon version '5.0.2 348514c86@220530 dev' ...
+[Mon Dec  5 11:09:32.994 2022] [1] shutdown complete
+[Mon Dec  5 11:09:41.519 2022] [1] starting daemon version '5.0.2 348514c86@220530 dev' ...
+[Mon Dec  5 11:09:41.519 2022] [1] listening on all interfaces for sphinx and http(s), port=9312
+[Mon Dec  5 11:09:41.519 2022] [1] listening on all interfaces for mysql, port=9306
+[Mon Dec  5 11:09:41.519 2022] [1] listening on all interfaces for sphinx and http(s), port=9308
+[Mon Dec  5 11:09:41.519 2022] [18] Index header format is not json, will try it as binary...
+[Mon Dec  5 11:09:41.519 2022] [18] WARNING: Unable to load header..
+[Mon Dec  5 11:09:41.519 2022] [18] WARNING: index 'countriesIndex': prealloc: failed to open /var/lib/manticore/data/countriesIndex.sph.sph: No such file or directory - NOT SERVING
+[Mon Dec  5 11:09:41.533 2022] [21] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:09:41.533 2022] [21] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:09:41.533 2022] [21] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:09:41.533 2022] [21] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:09:41.533 2022] [21] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:09:41.533 2022] [21] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:09:41.533 2022] [21] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:09:41.533 2022] [21] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:09:41.533 2022] [21] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:09:41.533 2022] [21] binlog: finished replaying total 3 in 0.000 sec
+[Mon Dec  5 11:09:41.534 2022] [25] prereading 0 indexes
+[Mon Dec  5 11:09:41.534 2022] [1] accepting connections
+[Mon Dec  5 11:09:41.534 2022] [25] prereaded 0 indexes in 0.000 sec
+[Mon Dec  5 11:09:54.357 2022] [1] caught SIGTERM, shutting down
+[Mon Dec  5 11:09:54.411 2022] [1] shutdown daemon version '5.0.2 348514c86@220530 dev' ...
+[Mon Dec  5 11:09:54.411 2022] [1] shutdown complete
+[Mon Dec  5 11:10:01.107 2022] [1] starting daemon version '5.0.2 348514c86@220530 dev' ...
+[Mon Dec  5 11:10:01.107 2022] [1] listening on all interfaces for sphinx and http(s), port=9312
+[Mon Dec  5 11:10:01.107 2022] [1] listening on all interfaces for mysql, port=9306
+[Mon Dec  5 11:10:01.107 2022] [1] listening on all interfaces for sphinx and http(s), port=9308
+[Mon Dec  5 11:10:01.107 2022] [19] Index header format is not json, will try it as binary...
+[Mon Dec  5 11:10:01.107 2022] [19] WARNING: Unable to load header..
+[Mon Dec  5 11:10:01.107 2022] [19] WARNING: index 'countriesIndex': prealloc: failed to open /var/lib/manticore/data/countriesIndex.sph: No such file or directory - NOT SERVING
+[Mon Dec  5 11:10:01.122 2022] [21] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:10:01.122 2022] [21] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:10:01.122 2022] [21] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:10:01.122 2022] [21] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:10:01.122 2022] [21] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:10:01.122 2022] [21] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:10:01.122 2022] [21] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:10:01.122 2022] [21] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:10:01.122 2022] [21] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:10:01.122 2022] [21] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:10:01.122 2022] [21] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:10:01.122 2022] [21] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:10:01.122 2022] [21] binlog: finished replaying total 4 in 0.000 sec
+[Mon Dec  5 11:10:01.123 2022] [25] prereading 0 indexes
+[Mon Dec  5 11:10:01.123 2022] [25] prereaded 0 indexes in 0.000 sec
+[Mon Dec  5 11:10:01.123 2022] [1] accepting connections
+[Mon Dec  5 11:10:15.085 2022] [1] caught SIGTERM, shutting down
+[Mon Dec  5 11:10:15.138 2022] [1] shutdown daemon version '5.0.2 348514c86@220530 dev' ...
+[Mon Dec  5 11:10:15.138 2022] [1] shutdown complete
+[Mon Dec  5 11:11:42.941 2022] [1] starting daemon version '5.0.2 348514c86@220530 dev' ...
+[Mon Dec  5 11:11:42.942 2022] [1] listening on all interfaces for sphinx and http(s), port=9312
+[Mon Dec  5 11:11:42.942 2022] [1] listening on all interfaces for mysql, port=9306
+[Mon Dec  5 11:11:42.942 2022] [1] listening on all interfaces for sphinx and http(s), port=9308
+[Mon Dec  5 11:11:42.942 2022] [19] Index header format is not json, will try it as binary...
+[Mon Dec  5 11:11:42.942 2022] [19] WARNING: Unable to load header..
+[Mon Dec  5 11:11:42.942 2022] [19] WARNING: index 'countriesIndex': prealloc: failed to open /var/lib/manticore/data/countriesIndex.sph: No such file or directory - NOT SERVING
+[Mon Dec  5 11:11:42.956 2022] [23] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:11:42.956 2022] [23] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:11:42.956 2022] [23] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:11:42.956 2022] [23] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:11:42.956 2022] [23] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:11:42.956 2022] [23] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:11:42.956 2022] [23] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:11:42.956 2022] [23] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:11:42.956 2022] [23] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:11:42.956 2022] [23] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:11:42.956 2022] [23] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:11:42.956 2022] [23] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:11:42.956 2022] [23] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:11:42.956 2022] [23] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:11:42.956 2022] [23] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:11:42.956 2022] [23] binlog: finished replaying total 5 in 0.000 sec
+[Mon Dec  5 11:11:42.956 2022] [1] accepting connections
+[Mon Dec  5 11:11:42.956 2022] [24] prereading 0 indexes
+[Mon Dec  5 11:11:42.956 2022] [24] prereaded 0 indexes in 0.000 sec
+[Mon Dec  5 11:16:38.623 2022] [1] caught SIGTERM, shutting down
+[Mon Dec  5 11:16:38.678 2022] [1] shutdown daemon version '5.0.2 348514c86@220530 dev' ...
+[Mon Dec  5 11:16:38.678 2022] [1] shutdown complete
+[Mon Dec  5 11:16:43.299 2022] [1] starting daemon version '5.0.2 348514c86@220530 dev' ...
+[Mon Dec  5 11:16:43.299 2022] [1] listening on all interfaces for sphinx and http(s), port=9312
+[Mon Dec  5 11:16:43.299 2022] [1] listening on all interfaces for mysql, port=9306
+[Mon Dec  5 11:16:43.299 2022] [1] listening on all interfaces for sphinx and http(s), port=9308
+[Mon Dec  5 11:16:43.300 2022] [19] Index header format is not json, will try it as binary...
+[Mon Dec  5 11:16:43.300 2022] [19] WARNING: Unable to load header..
+[Mon Dec  5 11:16:43.300 2022] [19] WARNING: index 'countriesIndex': prealloc: failed to open /var/lib/manticore/data/countriesIndex.sph: No such file or directory - NOT SERVING
+[Mon Dec  5 11:16:43.314 2022] [22] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:16:43.314 2022] [22] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:16:43.314 2022] [22] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:16:43.314 2022] [22] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:16:43.314 2022] [22] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:16:43.314 2022] [22] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:16:43.314 2022] [22] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:16:43.315 2022] [22] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:16:43.315 2022] [22] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:16:43.315 2022] [22] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:16:43.315 2022] [22] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:16:43.315 2022] [22] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:16:43.315 2022] [22] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:16:43.315 2022] [22] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:16:43.315 2022] [22] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:16:43.315 2022] [22] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:16:43.315 2022] [22] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:16:43.315 2022] [22] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:16:43.315 2022] [22] binlog: finished replaying total 6 in 0.000 sec
+[Mon Dec  5 11:16:43.315 2022] [23] prereading 0 indexes
+[Mon Dec  5 11:16:43.315 2022] [23] prereaded 0 indexes in 0.000 sec
+[Mon Dec  5 11:16:43.315 2022] [1] accepting connections
+[Mon Dec  5 11:17:14.565 2022] [1] caught SIGTERM, shutting down
+[Mon Dec  5 11:17:14.621 2022] [1] shutdown daemon version '5.0.2 348514c86@220530 dev' ...
+[Mon Dec  5 11:17:14.621 2022] [1] shutdown complete
+[Mon Dec  5 11:17:20.550 2022] [1] starting daemon version '5.0.2 348514c86@220530 dev' ...
+[Mon Dec  5 11:17:20.551 2022] [1] listening on all interfaces for sphinx and http(s), port=9312
+[Mon Dec  5 11:17:20.551 2022] [1] listening on all interfaces for mysql, port=9306
+[Mon Dec  5 11:17:20.551 2022] [1] listening on all interfaces for sphinx and http(s), port=9308
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: replaying log /var/log/manticore//binlog.001
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: replay stats: 0 commits; 0 updates, 0 reconfigure; 0 pq-add; 0 pq-delete; 0 pq-add-delete, 0 indexes
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: finished replaying /var/log/manticore//binlog.001; 0.0 MB in 0.000 sec
+[Mon Dec  5 11:17:20.566 2022] [23] binlog: finished replaying total 7 in 0.000 sec
+[Mon Dec  5 11:17:20.566 2022] [24] prereading 1 indexes
+[Mon Dec  5 11:17:20.567 2022] [1] accepting connections
+[Mon Dec  5 11:17:20.567 2022] [24] prereaded 1 indexes in 0.000 sec
+[Mon Dec  5 11:51:43.773 2022] [1] caught SIGTERM, shutting down
+[Mon Dec  5 11:51:43.846 2022] [1] shutdown daemon version '5.0.2 348514c86@220530 dev' ...
+[Mon Dec  5 11:51:43.846 2022] [1] shutdown complete

@@ -1,0 +1,1 @@
+/* Mon Dec  5 10:59:51.759 2022 conn 1 */ SELECT DATABASE() # error=Sphinx expr: syntax error, unexpected '(', expecting $end near ')'
